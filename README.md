@@ -1,14 +1,26 @@
 # **Call of Dutie: Snack Ops (SDK)**
 
 ## **Overview**
-*Call of Dutie: Snack Ops* is a fan-made, multiversal first-person shooter Framework developed by **PGD** & **Kelint**. Heavily Inspired by *Black Ops 1*, *Call of Duty 2*, *NX1 Future Warfare*, *Modern Warfare 3 (2011)*, and *Black Ops 2*, the game combines iconic gameplay, maps, and mechanics from these titles, while adding fresh new features. The project is non-profit and is a tribute to the *Call of Duty* series.
+*Call of Dutie: Snack Ops* is a fan-made, multiversal first-person shooter Framework developed by **PGD** & **Kelint**. Heavily Inspired by *Black Ops 1*, *Call of Duty 2 & 3*, *NX1 Future Warfare*, *Modern Warfare 3 (2011)*, and *Black Ops 2*, the game combines iconic gameplay, maps, and mechanics from these titles, while adding fresh new features. The project is non-profit and is a tribute to the *Call of Duty* series.
 
-## **Features**
+## **Newly Added Features**
+- **Controller Support**: Controller Support Now Implemented For Windows Controllers or any Controller with Proper Drivers.
+- **Ladder Climbing**: Ability to Climb Ladders Has Now been Implemented into the Games Player Logic along with easy to drag and drop blueprint.
+- **Easy to Use Editor Blueprints**: Allows New Artists or Users to Easily Drag and Drop Fully Functioning Items / Doors / Pickups / Traps and much more in a matter of seconds.
+
+## **Core Features**
 
 ### **Game Modes:**
 - **Zombies Mode**: Fight through waves of zombies, with future updates possibly adding **portals** for enhanced gameplay.
 - **Team Deathmatch (TDM)**: Play offline with bots, with **LAN support** planned soon and **online multiplayer** in development.
+
+### **Planned Features to Come in Future Updates:**
+- **Additional Weapons & More Types**: Were Planning to Add More Weapons Very Soon Along with more Weapon Types to Follow Shortly After.
 - **Survival & Spec Ops Modes**: These modes are planned for future releases, offering more cooperative play experiences.
+- **Weapon Mod Support**: This will allow users and modders or developers and even players to make new guns add new sounds to them and change there values like fire rate ,damage and more.
+- **Adding Vehicles**: We have Been Working on R&D for Properly Adding Vehicles based on (*Call of Duty 3*) Please Allow us the Time to Release first Vehicles before Inquiring About this.   
+- **Vehicle Mod Support**: This will allow users and modders or developers and even players to make new Vehicles and Customize them to there liking for more fun.
+
 
 ### **Maps:**
 - **Custom & Ported Maps**: Includes a mix of custom-made and ported maps such as **Nuketown OG**, **Rust**, and **Underground**, with larger maps also in development.
