@@ -1,6 +1,6 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "{55EBD8A3-4A0F-A931-E682-EF817BE91027}",
+	"EngineAssociation": "5.3",
 	"Category": "",
 	"Description": "",
 	"Plugins": [
@@ -30,15 +30,6 @@
 				"Lumin",
 				"Mac",
 				"Win64"
-			]
-		},
-		{
-			"Name": "Bridge",
-			"Enabled": true,
-			"SupportedTargetPlatforms": [
-				"Win64",
-				"Mac",
-				"Linux"
 			]
 		}
 	]
